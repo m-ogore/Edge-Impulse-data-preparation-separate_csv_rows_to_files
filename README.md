@@ -1,6 +1,5 @@
 # Edge-Impulse-data-preparation-separate_csv_rows_to_files
-These are instructions in getting started in transforming every row of an excel file into separate files
- as you prepare the data to be uploaded to edge impulse
+These are instructions in getting started in transforming every row of an excel file into separate files as you prepare the data to be uploaded to edge impulse
 Download and unzip this file
 Save this folder on your desktop
 Open Command prompt
